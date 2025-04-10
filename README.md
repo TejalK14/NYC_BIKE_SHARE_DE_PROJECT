@@ -1,7 +1,14 @@
-Overview
+BATCH PIPELINE FOR NYC BIKE SHARE DATA 
 ========
 
-Welcome to Astronomer! This project was generated after you ran 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
+This is a batch data pipeline for NYC BIKE SHARE DATA publicly available here https://citibikenyc.com/system-data.
+
+Conceptual Diagram
+================
+
+Architecture Diagram
+================
+
 
 Project Contents
 ================
